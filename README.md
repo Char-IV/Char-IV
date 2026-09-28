@@ -1,8 +1,8 @@
 Hello! I am Char IV, a student at Maryville University of St. Louis.  
-Online I go by Hyper or HyperFire4k  
-I have experience in C++, Java, Python, SQL, and R. I am studying in the artificial intelligence and data science branches of computer science.  
-I've done work using Visual Studio Code, MySQL Workbench, RStudio, Jupytr, Google Colab, Databricks (PySpark), and Anaconda.  
-During free time I enjoy playing and working on video games, usually in Godot 4.  
+Online I generally go by Hyper or HyperFire4k  
+I have experience in C++, Java, Python, SQL, and R, with a tad of HTML and CSS. I am studying in the artificial intelligence and data science branches of computer science.  
+I've done work using Visual Studio Code, MySQL Workbench, RStudio, Jupytr, IntelliJ, Google Colab, Databricks (PySpark), and Anaconda.  
+During free time I enjoy playing and working on video games, usually in Godot 4. I also like messing with random projects and learning new technologies, as most of the projects in my GitHub show.  
 Always looking to learn as much as possible, and have fun while doing it!  
 
 <!---
